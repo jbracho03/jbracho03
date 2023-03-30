@@ -1,4 +1,7 @@
 # 💫 About Me:
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=👋%20Hello,%20I'm%20Jose&fontSize=50&&color=5:62a8ea,15:92a8d1,100:0d1117&desc=%20%20&fontColor=ffffff&fontAlignY=35)
+
+
 My name is Jose Manuel Bracho, and I am a passionate 20-year-old data scientist. My expertise lies in data cleaning, analysis, and visualization to solve problems and make informed decisions. I enjoy effectively communicating results through reports and interactive visualizations to make data accessible and understandable to everyone. My goal is to utilize my skills and knowledge to drive the success of any challenging project that comes my way.<br><br>Mi nombre es Jose Manuel Bracho y soy un científico de datos apasionado de 20 años. Me especializo en la limpieza, análisis y visualización de datos para resolver problemas y tomar decisiones informadas. Disfruto comunicando resultados de manera efectiva mediante informes y visualizaciones interactivas para hacer que los datos sean accesibles y comprensibles para todos. Mi objetivo es utilizar mis habilidades y conocimientos para impulsar el éxito de cualquier proyecto desafiante que se me presente.<br><br><br><br>
 
 
